@@ -1,7 +1,9 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/d-DorLAf)
+﻿[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/d-DorLAf)
 # minigame-1
 ## Devlog
-Write your Devlog here.
+I think Components, GameObjects and Scenes works like a car, the Conponents are the car's functional parts like the engine, wheels, or steering wheel. They provide capability for user to play with,
+GameObjects are the car's chassis and body which serve as the container that holds and combines all the functional parts, which are the Components, and Scenes are the complete road trip, 
+they are the environment that contains all the running cars (GameObjects) and their interactions.
 ## Open-Source Assets
 - Starter first-person assets: https://assetstore.unity.com/packages/essentials/starter-assets-firstperson-updates-in-new-charactercontroller-pa-196525
 - Low poly platformer kit: https://assetstore.unity.com/packages/3d/environments/lowpoly-platformer-kit-free-modular-stylized-blocks-319018 
